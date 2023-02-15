@@ -1,5 +1,8 @@
 # my-awesome-list
 
+# Rails
+- [Karafka](https://karafka.io/) - Ruby/Rails Kafka framework
+
 # Databases
 
 - [Depesz](https://www.depesz.com/) - Great DB stuff articles
