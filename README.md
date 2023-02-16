@@ -3,6 +3,11 @@
 # Rails
 - [Karafka](https://karafka.io/) - Ruby/Rails Kafka framework
 
+# RSpec
+- [Better Specs](https://www.betterspecs.org/) - Collection of best practices
+- [The difference between let, let! and instance variables in RSpec](https://www.codewithjason.com/difference-let-let-instance-variables-rspec/)
+  - Do not use @instance_variables
+
 # Databases
 
 - [Depesz](https://www.depesz.com/) - Great DB stuff articles
