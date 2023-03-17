@@ -21,4 +21,5 @@
 
 - [Depesz](https://www.depesz.com/) - Great DB stuff articles
 - [explain.depesz](https://explain.depesz.com/) - Detailed overview of any PG Explain query.
+- [PG Advisory Locks](https://shiroyasha.io/advisory-locks-and-how-to-use-them.html) - PG Advisory Locks and how to use them.
 - [Use the index, Luke!](https://use-the-index-luke.com/) - A site explaining SQL indexing to developers
